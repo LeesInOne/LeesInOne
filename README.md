@@ -31,7 +31,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="109" height="39" alt="telegram logo"  />
+  <a href="@I99lees" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="109" height="39" alt="telegram logo"  />
+  </a>
   <a href="https://codesandbox.io/u/leesforone" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="109" height="39" alt="codesandbox logo"  />
   </a>
