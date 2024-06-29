@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="109" height="39" alt="telegram logo"  />
   <a href="https://codesandbox.io/u/leesforone" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="109" height="39" alt="codesandbox logo"  />
@@ -49,8 +49,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeesInOne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20%E2%80%8B%E2%80%8Bin%20projects" height="100" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LeesInOne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1&custom_title=Statistics" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeesInOne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1&custom_title=Statistics" height="300" alt="stats graph"  />
 </div>
 
 ###
