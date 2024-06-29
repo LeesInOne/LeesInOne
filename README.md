@@ -8,8 +8,8 @@
 <h4 align="left">FRONTEND</h4>
 <h4 align="left">Knowledge level Junior developer:</h4>
 
-<h4 align="left">FRONTEND</h4>
-<h4 align="left">FRONTEND</h4>
+<h4 align="left">BACKEND</h4>
+<h4 align="left">Knowledge level Junior developer:</h4>
 <h4 align="left">FRONTEND</h4>
 
 
