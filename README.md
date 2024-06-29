@@ -5,11 +5,11 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<h4 align="left">FRONTEND</h4>
-<h4 align="left">Knowledge level Junior developer:</h4>
+<h4 align="left">FRONTEND - Junior developer</h4>
 
-<h4 align="left">BACKEND</h4>
-<h4 align="left">Knowledge level Junior developer:</h4>
-<h4 align="left">FRONTEND</h4>
+
+<h4 align="left">BACKEND - Junior developer</h4>
+
+<h4 align="left">OTHER</h4>
 
 
